@@ -1,1 +1,1 @@
-<img src="gif/Hello_Toast_demo.gif" width="400"/>
+<img src="gif/Hello_Toast_Challenge.gif" width="400"/>
